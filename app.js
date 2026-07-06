@@ -17,3 +17,5 @@ let productDiscount = products.map((product)=>{
 })
 
 console.log(productDiscount)
+
+
